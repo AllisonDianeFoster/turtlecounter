@@ -1,6 +1,11 @@
 #wrapper {
-    max-width: 1980px;
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid darkgrey;
+    border-radius: 10px;
 }
+
 body {
     background-image: url("turtle.jpg");
     background-size: cover;
